@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://bluemingnote.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://bluemingnote.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-13T20:07:25+09:00</updated>
+  <id>https://bluemingnote.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Technical Training | </title>
+  
+
+  
+    <subtitle>IT기반기술교육 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">2021-06-13 블루밍</title>
+      <link href="https://bluemingnote.github.io/jekyll-basic" rel="alternate" type="text/html" title="2021-06-13 블루밍" />
+      <published>2021-06-13T16:04:00+09:00</published>
+      <updated>2021-06-13T16:04:00+09:00</updated>
+      <id>https://bluemingnote.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://bluemingnote.github.io/jekyll-basic">&lt;p&gt;bwabssbs&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>moon9342</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">bwabssbs</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
